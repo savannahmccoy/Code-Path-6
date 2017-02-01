@@ -1,3 +1,3 @@
 # Code-Path-5
 Tumblr Client - Savannah McCoy 
-january 2017
+January 2017

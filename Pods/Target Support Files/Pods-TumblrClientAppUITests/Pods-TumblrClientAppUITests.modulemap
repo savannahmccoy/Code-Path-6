@@ -1,0 +1,6 @@
+framework module Pods_TumblrClientAppUITests {
+  umbrella header "Pods-TumblrClientAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

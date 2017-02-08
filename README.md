@@ -1,5 +1,7 @@
-# Code-Path-5
-Tumblr Client - Savannah McCoy 
-January 2017
+# Code-Path-6
+Tumblr Client Pt. 2
+FEB 2017
 
-http://i.imgur.com/5aq1SYe.gifv
+Added pull to refresh and Details view
+
+http://imgur.com/a/RuOc0.gif
